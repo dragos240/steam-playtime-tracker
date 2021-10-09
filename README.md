@@ -1,0 +1,1 @@
+Copy `settings.example.py` to `settings.py` and modify it, adding in your path to `controller_ui.txt`, which contains timestamped launch/exit data for all games, and game IDs to filter for. controller_ui.txt can be found in the `Steam/logs` directory.
