@@ -1,0 +1,10 @@
+
+Found match on lines 1784 through 1786
+Elapsed time: 0:03:19
+
+Found match on lines 1792 through 1794
+Elapsed time: 0:08:21
+
+Found match on lines 1802 through 1804
+Elapsed time: 0:11:14
+
